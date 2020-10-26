@@ -1,0 +1,13 @@
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\bin\Debug\netcoreapp3.1\Coursegit2.exe
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\bin\Debug\netcoreapp3.1\Coursegit2.deps.json
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\bin\Debug\netcoreapp3.1\Coursegit2.runtimeconfig.json
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\bin\Debug\netcoreapp3.1\Coursegit2.runtimeconfig.dev.json
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\bin\Debug\netcoreapp3.1\Coursegit2.dll
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\bin\Debug\netcoreapp3.1\Coursegit2.pdb
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\obj\Debug\netcoreapp3.1\Coursegit2.csprojAssemblyReference.cache
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\obj\Debug\netcoreapp3.1\Coursegit2.AssemblyInfoInputs.cache
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\obj\Debug\netcoreapp3.1\Coursegit2.AssemblyInfo.cs
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\obj\Debug\netcoreapp3.1\Coursegit2.csproj.CoreCompileInputs.cache
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\obj\Debug\netcoreapp3.1\Coursegit2.dll
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\obj\Debug\netcoreapp3.1\Coursegit2.pdb
+C:\Users\estoque.bhe\source\repos\Coursegit2\Coursegit2\obj\Debug\netcoreapp3.1\Coursegit2.genruntimeconfig.cache
